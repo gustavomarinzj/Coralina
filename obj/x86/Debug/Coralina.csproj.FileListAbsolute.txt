@@ -1,0 +1,9 @@
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\obj\x86\Debug\Coralina.Properties.Resources.resources
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\obj\x86\Debug\Coralina.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\bin\Debug\Coralina.exe
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\bin\Debug\Coralina.pdb
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\obj\x86\Debug\Coralina.exe
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\obj\x86\Debug\Coralina.pdb
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\obj\x86\Debug\Coralina.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\obj\x86\Debug\Coralina.vista.frmIniciarSesion.resources
+d:\documentos\visual studio 2010\Projects\Coralina\Coralina\obj\x86\Debug\Coralina.frmInsertarUsuario.resources
